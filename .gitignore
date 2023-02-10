@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 api gyfydev= jwCHQ61hT4dggJkAuJECyuI52ZIwHZFL
 yarn build
+git checkout -- .
